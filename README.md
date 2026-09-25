@@ -1,90 +1,30 @@
-<h1 align="center">Hey, I'm Girisha Anamala 👋</h1>
+![gifOS](os.gif)
 
-<p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
-</p>
 
-<h3 align="center">Software Developer | Full-Stack Engineer | Problem Solver</h3>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/girishaanamala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Girisha1908"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## Popular Repositories
+<table>
+<tr><td><a href="https://github.com/Girisha1908/Girisha1908">Girisha1908</a></td><td>Config files for my GitHub profile.</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/ToolForge">ToolForge</a></td><td>ToolForge is an AI-powered universal API adapter that transforms API documentation into agent-ready tools. </td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/AI-Growth-Assistant">AI-Growth-Assistant</a></td><td>a full-stack AI chat app that answers product/growth questions grounded in Lenny's Podcast transcripts.</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/DocMind">DocMind</a></td><td>Retrieval-Augmented Generation (RAG)   Document Assistant designed to enable users to chat with large PDF  documents (such as books, manuals, or research papers) in natural   language.</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/HACKSRM">HACKSRM</a></td><td>SAHAY – AI-Powered Android Companion for Elderly Safety & Independence</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/Collectra">Collectra</a></td><td> a package storage, tracking, and secure retrieval platform. Designed for residential buildings, university hostels, and corporate departments</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/Collaborative-Code-editor">Collaborative-Code-editor</a></td><td>A real-time collaborative code editor designed for seamless pair programming, code reviews, and educational coding sessions.</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/Gradient">Gradient</a></td><td>project management and productivity platform designed for seamless collaboration between managers and employees</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/AP23110010372">AP23110010372</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/customer-trends-data-analysis-SQL-Python-PowerBI">customer-trends-data-analysis-SQL-Python-PowerBI</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/Bulldozer-Price-Regression">Bulldozer-Price-Regression</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/Heart-Disease-Classification">Heart-Disease-Classification</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/Inventix-AI">Inventix-AI</a></td><td> an AI-platform that automates patent and paper drafting, experiment planning, and early novelty validation. It provides compliance-ready multi-jurisdiction filing, smart submission recommendations, and conference/journal matching. A centralized workflow dashboard tracks drafting, approvals, publications, and deadlines end to end.</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/EmailPhishing_Project">EmailPhishing_Project</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/Port-Scanner">Port-Scanner</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/Language-Translator">Language-Translator</a></td><td>This is a Google translator app- Bhasha built using google-trans API and with the feature of speech to text recognition.</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/Games-hub">Games-hub</a></td><td>Just starting out to code and building some exciting stuff using HTML, CSS, JS</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/Girisha1908/Movie-watchlist">Movie-watchlist</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+</table>
 
-<br/>
 
-## 👨‍💻 About Me
 
-Final year engineering student excited about researching and developing products that create an impact.
-
-- **What I do:** Ship end-to-end applications using Python, Node.js, TypeScript, and Docker.
-- **What drives me:** High-performance code, slick user experiences, and scalable system design.
-- **What's next:** Open for high-impact engineering roles and technical collaborations.
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-**Backend & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-**Databases & Cloud**
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-**Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<br/>
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://ghstats.dev/api/langs?username=Girisha1908&theme=tokyonight&layout=donut" width="49%" />
-</p>
-
-<br/>
-
-## 🖥️ Terminal Snapshot
-
-<p align="center">
-  <img src="./terminal.gif" width="80%" alt="neofetch-style terminal card" />
-</p>
-
-<br/>
-
-<br/>
-
-## 📬 Contact
-
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/girishaanamala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<br/>
-
-<p align="center"><i>Thanks for stopping by — always open to interesting projects and collaborations!</i></p>
+<sub><i>Automatically generated by [liamg/github-profile-terminal-action](https://github.com/liamg/github-profile-terminal-action) at Fri, 25 Sep 2026 07:31:55 UTC</i></sub>
